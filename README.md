@@ -1,2 +1,2 @@
 # senior-year-misc
-Small projects I worked on during my senior year of high school
+Notes and small programs / assignments I worked on during my senior year of high school.
